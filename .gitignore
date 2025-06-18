@@ -1,0 +1,12 @@
+.venv
+__pycache__
+.mypy_cache
+.ropeproject
+build
+.vscode/c_cpp_properties.json
+.vscode/settings.json
+ecs_module.[ch]
+ecs_module.html
+Fiasco.*.so
+.DS_Store
+modules
